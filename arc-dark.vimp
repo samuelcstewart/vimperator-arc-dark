@@ -1,21 +1,10 @@
 " ==Vimperator_Color_Scheme==
-" name: zenburn
-" url: https://github.com/livibetter/dotfiles/tree/master/vimperator/colors
-" original name: vimPgray
+" name: arc-dark
+" url: https://github.com/SavoyRoad/vimperator-arc-dark/blob/master/arc-dark.vimp
 "
 " Created for matching this GTK+ theme:
-"   http://www.gnome-look.org/content/show.php/Clearlooks+Zenburn?content=103035
+"   https://github.com/horst3180/Arc-theme
 "
-" Last edited: 
-" Edited by Yu-Jie Lin <http://j.mp/Google-livibetter>
-"
-" Original vimp: 2010-11-01T10:04:00+0800
-"  http://github.com/VoQn/vimperator-colorscheme/blob/master/colors/default.vimp
-"
-" Reference:
-"  chrome://liberator/locale/styling.html
-" ==VimPGray_Colorscheme_Settings==
-
 " Reset all styles first
 hi clear
 
