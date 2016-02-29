@@ -5,10 +5,10 @@ Influenced by vimpr/vimperator-colors https://github.com/vimpr/vimperator-colors
 
 ### Installation Instructions
 
-  mkdir ~/.vimperator/colors
-  cp ./arc-dark.vimp ~/.vimperator/colors
+    mkdir ~/.vimperator/colors
+    cp ./arc-dark.vimp
 
 ### Vimperator
 
-  :colorscheme
-then choose arc-dark as your color scheme
+    :colorscheme
+    # choose arc-dark as your color scheme
