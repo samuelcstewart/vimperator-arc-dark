@@ -8,6 +8,6 @@ Installation Instructions:
 mkdir ~/.vimperator/colors
 cp ./arc-dark.vimp ~/.vimperator/colors
 
-In Vimperator:
+Vimperator:
 :colorscheme
-# tab to choose arc-dark theme
+(choose arc-dark Color Scheme)
