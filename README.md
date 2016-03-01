@@ -1,5 +1,5 @@
 # vimperator-arc-dark
-Vimperator colorscheme intended to match the Arc-Dark GKT theme
+Vimperator color scheme intended to match the Arc-Dark GTK theme
 
 Influenced by vimpr/vimperator-colors https://github.com/vimpr/vimperator-colors
 
