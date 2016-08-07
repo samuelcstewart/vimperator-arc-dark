@@ -21,10 +21,10 @@ hi CompTitle				color: #BAC3CF; background: #2B2E37; font-weight: bold; font-fam
 hi CompTitle>*				color: #BAC3CF; font-weight: bold; border-top: 1px solid gray; border-bottom: 1px solid #BAC3CF; padding: 1px 0.5ex; font-family: Hack; font-size: 12px
 
 " Hints!
-hi Hint						color: #BAC3CF; background-color: #800; border-color: ButtonShadow; font-family: Hack; font-size: 12px; border-width: 0px; border-style: solid; padding 0 1px;
-hi Hint::after				content: attr(number); font-family: Hack; font-size: 12px;
-hi HintActive				color: black; background: #5294E2; font-family: Hack; font-size: 12px;
-hi HintElem					color: white; background-color: #5294E2; font-family: Hack; font-size: 12px; 
+hi Hint						color: black; background-color: #FFCC66; border-color: ButtonShadow; border-width: 0px; border-style: solid; padding 0 1px;
+hi Hint::after				content: attr(number); font-family: Hack; font-size: 9px;
+hi HintActive				color: black; background: #F27779;
+hi HintElem					color: white; background-color: #5294E2; 
 hi HintImage				opacity: .5;
 
 " Used also in wrapping error messages as the background, simple speaking
